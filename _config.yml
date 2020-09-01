@@ -37,13 +37,14 @@ social_media:
   # keybase: your_username
   # mastodon: your_username
   # medium: your_username
-  # stackoverflow: your_user_id
+   stackoverflow: 10263598
   # telegram: your_username
+   linkedin: akshahi17/
    twitter: anupshahi07
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
-   linkedin: akshahi17/
+   
    
 topics:
   - name: Python
@@ -51,8 +52,8 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
 
   - name: Matlab
-    web_url: https://github.com/topics/matlab
-    image_url: https://commons.wikimedia.org/wiki/File:Matlab_Logo.png
+    web_url: https://in.mathworks.com/products/matlab.html
+    image_url: https://in.mathworks.com/products/matlab.html
     
   - name: R
     web_url: https://github.com/topics/r
