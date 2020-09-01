@@ -28,31 +28,32 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+   twitter: anupshahi07
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
-  # youtube: your_username
-
+   linkedin: akshahi17/
+   
 topics:
-  - name: CSS
+  - name: Python
     web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
 
-  - name: Web design
-
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Matlab
+    web_url: https://github.com/topics/matlab
+    image_url: https://commons.wikimedia.org/wiki/File:Matlab_Logo.png
+    
+  - name: R
+    web_url: https://github.com/topics/r
+    image_url: https://github.com/akshahi17/personal-website/blob/master/R_logo.svg.png
