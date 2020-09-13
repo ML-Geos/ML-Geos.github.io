@@ -13,56 +13,23 @@ I hope you like it!
 Python is fastest growing scientific language. Python is easy to learn and it's syntax is human readable. 
 ```
 
-## Php
-```php
-<?php
-  print("Hello {$world}");
-?>
+## R
+```
+R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis. 
 ```
 
-## Java
-```java
-public class java {
-    public static void main(String[] args) {
-        System.out.println("Hello World");
-    }
-}
+## Matlab
+```
+MATLAB is a multi-paradigm numerical computing environment and proprietary programming language developed by MathWorks.
 ```
 
 ## HTML
-```html
-<html>
-  <head><title>Title!</title></head>
-  <body>
-    <p id="foo">Hello, World!</p>
-    <script type="text/javascript">var a = 1;</script>
-    <style type="text/css">#foo { font-weight: bold; }</style>
-  </body>
-</html>
 ```
-
-## Console
-```console
-# prints "hello, world" to the screen
-~# echo Hello, World
-Hello, World
-
-# don't run this
-~# rm -rf --no-preserve-root /
+Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser.
 ```
 
 ## Css
 ```css
-body {
-    font-size: 12pt;
-    background: #fff url(temp.png) top left no-repeat;
-}
+Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
 ```
 
-## Yaml
-```yaml
----
-one: Mark McGwire
-two: Sammy Sosa
-three: Ken Griffey
-```
