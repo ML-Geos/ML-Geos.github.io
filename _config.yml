@@ -18,7 +18,7 @@ defaults:
 
 projects:
   sort_by: new
-  sort_by options:
+  #sort_by options:
      - pushed
      - stars
   limit: 9
