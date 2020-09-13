@@ -7,7 +7,9 @@ published: True
 
 I hope you like it!
 
-# Highlighter
+# Highlits
+I'm discussing here some of the language which I have discovered recently. 
+
 ## Python
 ```
 Python is fastest growing scientific language. Python is easy to learn and it's syntax is human readable. 
@@ -29,7 +31,7 @@ Hypertext Markup Language is the standard markup language for documents designed
 ```
 
 ## Css
-```css
+```
 Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
 ```
 
