@@ -1,23 +1,16 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Welcome to My Page!"
 published: True
 ---
 
-**Hello world**, this is my first Jekyll blog post.
+**Hello world**, this is my first programming blog post.
 
 I hope you like it!
 
 # Highlighter
-## Ruby
-```ruby
-def show
-  puts "Outputting a very lo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-ong lo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-ong line"
-  @widget = Widget(params[:id])
-  respond_to do |format|
-    format.html # show.html.erb
-    format.json { render json: @widget }
-  end
-end
+## Python
+```
+Python is fastest growing scientific language. Python is easy to learn and it's syntax is human readable. 
 ```
 
 ## Php
