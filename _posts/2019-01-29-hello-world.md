@@ -7,7 +7,7 @@ published: True
 
 I hope you like it!
 
-# Highlits
+# Highlights
 I'm discussing here some of the language which I have discovered recently. 
 
 ## Python
