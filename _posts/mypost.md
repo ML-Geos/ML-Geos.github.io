@@ -1,6 +1,6 @@
 ---
 title: "Welcome to My Page!"
-published: True
+published: true
 ---
 
 **Hello world**, this is my first programming blog post.
