@@ -15,7 +15,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-
+about me: Hi 
+    
 projects:
   sort_by: push
   sort_by options:
