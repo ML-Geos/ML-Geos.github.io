@@ -1,5 +1,5 @@
 {% include header.html %}
-
+<link rel="stylesheet" href="stylebg.css">
 {% if site.layout == 'stacked' %}
   <div class="container-lg py-6 p-responsive text-center">
     {% include masthead.html metadata=true %}
@@ -51,5 +51,9 @@
     </div>
   </div>
 {% endif %}
-
+<script>
+    particlesJS.load('particles-js', 'particles.json', function(){
+      console.log('particles.json loaded...');
+    });
+  </script>
 {% include footer.html %}
