@@ -59,15 +59,15 @@ topics:
     web_url: https://github.com/topics/r
     image_url: https://user-images.githubusercontent.com/42636201/92883854-e53eea00-f42e-11ea-8c24-b3c7d6cb8543.jpg
     
-    - name: Machine Learning
+  - name: Machine Learning
     web_url: https://github.com/topics/machine-learning
     image_url: https://user-images.githubusercontent.com/42636201/92883854-e53eea00-f42e-11ea-8c24-b3c7d6cb8543.jpg
     
-    - name: Digital Rock Physics
+  - name: Digital Rock Physics
     web_url: https://www.digitalrocksportal.org
     image_url: https://user-images.githubusercontent.com/42636201/92883854-e53eea00-f42e-11ea-8c24-b3c7d6cb8543.jpg
     
-    - name: Deep Learning
+  - name: Deep Learning
     web_url: https://github.com/topics/deep-learning
     image_url: https://user-images.githubusercontent.com/42636201/92883854-e53eea00-f42e-11ea-8c24-b3c7d6cb8543.jpg
 
