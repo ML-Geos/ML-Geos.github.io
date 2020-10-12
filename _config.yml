@@ -59,17 +59,17 @@ topics:
     web_url: https://github.com/topics/r
     image_url: https://user-images.githubusercontent.com/42636201/92883854-e53eea00-f42e-11ea-8c24-b3c7d6cb8543.jpg
     
-  - name: Machine Learning
+  #- name: Machine Learning
     web_url: https://github.com/topics/machine-learning
     image_url: https://user-images.githubusercontent.com/42636201/92883854-e53eea00-f42e-11ea-8c24-b3c7d6cb8543.jpg
     
   - name: Digital Rock Physics
     web_url: https://www.digitalrocksportal.org
-    image_url: https://user-images.githubusercontent.com/42636201/92883854-e53eea00-f42e-11ea-8c24-b3c7d6cb8543.jpg
+    image_url: https://user-images.githubusercontent.com/42636201/95743745-db1f3e00-0caf-11eb-85d5-5a4e28eaae20.png
     
   - name: Deep Learning
     web_url: https://github.com/topics/deep-learning
-    image_url: https://user-images.githubusercontent.com/42636201/92883854-e53eea00-f42e-11ea-8c24-b3c7d6cb8543.jpg
+    image_url: https://user-images.githubusercontent.com/42636201/95744901-c8a60400-0cb1-11eb-9877-7dc3bc075f5c.jpg
 
 theme: jekyll-theme-hacker
 
